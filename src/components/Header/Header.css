@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+}
+
+.App-title{
+    text-align: center;
+}
+
+.message_start {
+    text-align: center;
+    color: yellow
+}
+
+.scoreboard {
+    text-align: right;
+}

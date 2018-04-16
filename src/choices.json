@@ -1,0 +1,50 @@
+[
+  {
+    "name": "snoo-snoo",
+    "image": "./assets/images/snoo_snoo.jpg"
+  },
+  {
+    "name": "bernie-snoo",
+    "image": "./assets/images/bernie_snoo.png"
+  },
+  {
+    "name": "jon-snoo",
+    "image": "./assets/images/jon_snoo.jpg"
+  },
+  {
+    "name": "boba_snoo",
+    "image": "./assets/images/boba_snoo.png"
+  },
+  {
+    "name": "german_snoo",
+    "image": "./assets/images/german_snoo.png"
+  },
+  {
+    "name": "snoo_mario",
+    "image": "./assets/images/snoo_mario.png"
+  },
+  {
+    "name": "snoo_orange",
+    "image": "./assets/images/snoo_orange.png"
+  },
+  {
+    "name": "snoo_potter",
+    "image": "./assets/images/snoo_potter.jpg"
+  },
+  {
+    "name": "snoo_rick",
+    "image": "./assets/images/snoo_rick.jpg"
+  },
+  {
+    "name": "snoo_gm",
+    "image": "./assets/images/snoo_gm.png"
+  },
+  {
+    "name": "snoo_teddy",
+    "image": "./assets/images/snoo_teddy.png"
+  },
+  {
+    "name": "snoo_thumb",
+    "image": "./assets/images/snoo_thumb.png"
+  }
+]
